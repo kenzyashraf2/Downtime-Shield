@@ -28,10 +28,12 @@ Provide actionable recommendations to minimize downtime and improve efficiency.
 - How can preventive maintenance be optimized to reduce downtime?
 - What are the trends in downtime across machines, shifts, and causes?
 ## Dashboard
-![WhatsApp Image 2025-03-21 at 6 28 51 AM](https://github.com/user-attachments/assets/f05743bc-7a3d-46e6-a175-4371d3afa0cf)
+![image](https://github.com/user-attachments/assets/881b05ed-a803-445c-a1fd-7e7814da0551)
 ![WhatsApp Image 2025-03-21 at 7 15 52 AM](https://github.com/user-attachments/assets/fc125d53-bafa-49ac-98ae-d31577f12c11)
-![WhatsApp Image 2025-03-21 at 6 28 52 AM](https://github.com/user-attachments/assets/cf569827-ec3c-47e4-80a5-f9bbba735594)
-![WhatsApp Image 2025-03-21 at 6 28 51 AM (2)](https://github.com/user-attachments/assets/3fee17aa-d559-4e40-a3d8-f5503ee0b872)
+![image](https://github.com/user-attachments/assets/7fe97bc3-8716-40b6-a340-5861c4f2f5f6)
+![image](https://github.com/user-attachments/assets/188277c1-83ee-4e93-8980-752e3278619d)
+
+
 
 
 
