@@ -6,8 +6,8 @@ The goal of this project is to analyze downtime occurrences in the manufacturing
 ## Problem Statement
 Unplanned downtime leads to significant production losses, increased operational costs, and inefficiencies. The lack of data-driven insights makes it challenging to pinpoint key failure points and optimize maintenance schedules.
 ## Scope of Work
-•	Analyze frequency, duration, and trends in downtime events.
-•	Provide visualization dashboards and reports for decision-making.
+-	Analyze frequency, duration, and trends in downtime events.
+-	Provide visualization dashboards and reports for decision-making.
 ## Project Goals:
 Clean and structure downtime data (Excel).
 Perform root cause analysis using SQL queries.
@@ -15,18 +15,18 @@ Develop a predictive model using Python to forecast potential downtime.
 Create interactive dashboards in Power BI & Tableau for real-time monitoring.
 Provide actionable recommendations to minimize downtime and improve efficiency.
 ## Key Questions 
-How often does downtime occur in each production line?
-What is the total downtime duration per day, week, or month?
-What is the average downtime per machine?
-What are the top reasons for downtime? (e.g., machine failure, operator error, material shortage)
-Are there patterns in downtime causes across shifts or departments?
-How does downtime affect production output?
-What is the impact of downtime on overall equipment efficiency (OEE)?
-What percentage of production time is lost due to downtime?
-Can we predict when a machine is likely to fail?
-Which factors contribute most to downtime risk?
-How can preventive maintenance be optimized to reduce downtime?
-What are the trends in downtime across machines, shifts, and causes?
+- How often does downtime occur in each production line?
+- What is the total downtime duration per day, week, or month?
+- What is the average downtime per machine?
+- What are the top reasons for downtime? (e.g., machine failure, operator error, material shortage)
+- Are there patterns in downtime causes across shifts or departments?
+- How does downtime affect production output?
+- What is the impact of downtime on overall equipment efficiency (OEE)?
+- What percentage of production time is lost due to downtime?
+- Can we predict when a machine is likely to fail?
+- Which factors contribute most to downtime risk?
+- How can preventive maintenance be optimized to reduce downtime?
+- What are the trends in downtime across machines, shifts, and causes?
 ## Dashboard
 ![WhatsApp Image 2025-03-21 at 6 28 51 AM](https://github.com/user-attachments/assets/f05743bc-7a3d-46e6-a175-4371d3afa0cf)
 ![WhatsApp Image 2025-03-21 at 6 28 51 AM (1)](https://github.com/user-attachments/assets/6fc7437c-183c-46b9-b307-e830993ca22f)
