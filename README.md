@@ -29,7 +29,7 @@ Provide actionable recommendations to minimize downtime and improve efficiency.
 - What are the trends in downtime across machines, shifts, and causes?
 ## Dashboard
 ![WhatsApp Image 2025-03-21 at 6 28 51 AM](https://github.com/user-attachments/assets/f05743bc-7a3d-46e6-a175-4371d3afa0cf)
-![WhatsApp Image 2025-03-21 at 6 28 51 AM (1)](https://github.com/user-attachments/assets/6fc7437c-183c-46b9-b307-e830993ca22f)
+![WhatsApp Image 2025-03-21 at 7 15 52 AM](https://github.com/user-attachments/assets/fc125d53-bafa-49ac-98ae-d31577f12c11)
 ![WhatsApp Image 2025-03-21 at 6 28 52 AM](https://github.com/user-attachments/assets/cf569827-ec3c-47e4-80a5-f9bbba735594)
 ![WhatsApp Image 2025-03-21 at 6 28 51 AM (2)](https://github.com/user-attachments/assets/3fee17aa-d559-4e40-a3d8-f5503ee0b872)
 
