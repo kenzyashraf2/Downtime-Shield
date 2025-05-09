@@ -1,4 +1,7 @@
 # Downtime-Shield
+
+![Uploading image.png…]()
+
 ## overview 
 Manufacturing downtime refers to periods when production stops due to equipment failures, maintenance, supply chain disruptions, or operational inefficiencies. Downtime can be categorized into two types: planned (e.g., scheduled maintenance) and unplanned (e.g., unexpected breakdowns). While planned downtime is necessary for upkeep, unplanned downtime leads to significant losses in productivity, increased costs, and delays in manufacturing processes.
 ## Objective
