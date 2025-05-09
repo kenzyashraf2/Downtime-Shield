@@ -1,6 +1,6 @@
 # 🌟Downtime-Shield_Project
 
-![image](https://github.com/user-attachments/assets/f8a5aa12-7ac3-4852-85bb-9ff7cbf81c30)
+![image](https://github.com/user-attachments/assets/9e3cefe9-f7b0-4cf1-af40-f296b62b1590)
 
 
 📊  A data-driven manufacturing analytics project for identifying root causes of production delays, optimizing operator performance, and visualizing downtime trends via an interactive dashboard.
