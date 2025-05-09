@@ -1,11 +1,11 @@
-#🌟 Downtime-Shield
+# 🌟Downtime-Shield
 
 ![image](https://github.com/user-attachments/assets/f30c848e-2a88-47bb-a8d9-2ff79c8dffab)
 
 📊  A data-driven manufacturing analytics project for identifying root causes of production delays, optimizing operator performance, and visualizing downtime trends via an interactive dashboard.
 ## 🔍overview 
 Manufacturing downtime refers to periods when production stops due to equipment failures, maintenance, supply chain disruptions, or operational inefficiencies. Downtime can be categorized into two types: planned (e.g., scheduled maintenance) and unplanned (e.g., unexpected breakdowns). While planned downtime is necessary for upkeep, unplanned downtime leads to significant losses in productivity, increased costs, and delays in manufacturing processes.
-👥 Team Members 
+## 👥 Team Members 
 - John Mamdooh
 - Kenzy Ashraf
 - Ziad Abdullah
