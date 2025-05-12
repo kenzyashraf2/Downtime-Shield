@@ -1,1 +1,5 @@
 ![image](https://github.com/kenzyashraf2/Downtime-Shield/blob/7e24338025a0867fc8422d50b7e3fd686710ad1c/Power%20BI/Screenshot%202025-05-12%20232536.png)
+![image](https://github.com/kenzyashraf2/Downtime-Shield/blob/fdeed8cb59ed2217ad14175632a0829f8ae36c1d/Power%20BI/Screenshot%202025-05-12%20232553.png)
+![image](https://github.com/kenzyashraf2/Downtime-Shield/blob/fdeed8cb59ed2217ad14175632a0829f8ae36c1d/Power%20BI/Screenshot%202025-05-12%20232618.png)
+![image](https://github.com/kenzyashraf2/Downtime-Shield/blob/fdeed8cb59ed2217ad14175632a0829f8ae36c1d/Power%20BI/Screenshot%202025-05-12%20232627.png)
+![image](https://github.com/kenzyashraf2/Downtime-Shield/blob/fdeed8cb59ed2217ad14175632a0829f8ae36c1d/Power%20BI/Screenshot%202025-05-12%20232636.png)
